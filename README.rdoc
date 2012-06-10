@@ -1,0 +1,2 @@
+.h2 NOTE
+Use it only in development!
